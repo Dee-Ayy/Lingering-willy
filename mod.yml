@@ -1,0 +1,8 @@
+title: Lingering WiLL mod normal
+originalAuthor: DA
+description: totally normal Lingering Will
+assets:
+ - name: obj/B_EX420.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/B_EX420.mdlx
